@@ -1,11 +1,10 @@
-A series of scripts for keeping track of timed tasks and reporting on
-them. 
+1. Put TimeTracker.scpt into ~/Library/Applicaion Support/Quicksilver/Actions
 
-TimeTracker.py takes command line input and writes to a file, prepending
-the text with a timestamp.
+2. Edit the 'do shell script' line in that file to point to where you 
+have put TimeTracker.py
 
-Files that are tracked are kept in a directory, currently
-~/life-log/timetracker.log
+3. Edit the 'fileHandle' line in the python script to point to a file for keeping
+track of the things you are interested in keeping track of.
 
-These files are not connected with revesion control, or with the files
-that act on them.
+4. Invoke Quicksilver, go to text entry mode, then use the TimeTracker Action. Easy!4. Invoke Quicksilver, go to text entry mode, then use the TimeTracker Action. Easy!4. Invoke Quicksilver, go to text entry mode, then use the TimeTracker Action. Easy!
+
