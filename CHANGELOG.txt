@@ -1,0 +1,7 @@
+
+31/10/2008
+placed project under darcs
+
+31/10/2008
+
+Set up project dir
