@@ -1,3 +1,7 @@
+19/01/2010
+moved to git
+included applescript in dir
+updated README
 
 31/10/2008
 placed project under darcs
