@@ -8,3 +8,5 @@ track of the things you are interested in keeping track of.
 
 4. Invoke Quicksilver, go to text entry mode, then use the TimeTracker Action. Easy.
 
+Don't forget to restart Quicsilver after you have added the new action to the Actions folder in order for Quicksilver to register the new action.
+
